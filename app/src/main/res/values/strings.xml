@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Data Strucutures</string>
+    <string name="json_url">"https://learncodeonline.in/api/android/datastructure.json"</string>
+    <string name="data_structures_text">Data Structures By LCO</string>
+    <string name="image_content_description">Splash Screen Logo</string>
+</resources>
